@@ -28,7 +28,6 @@ h2 {
 	line-height: 2rem;
 	padding: 0 2rem 1.25rem 0;
 	margin-bottom: 1.25rem;
-	border-bottom: 1px solid #222222;
 	display: inline-block;
 	font-weight: normal;
 }
@@ -91,6 +90,10 @@ ul li {
 .separator {
 	border-top: 1px solid rgba(51, 51, 51, 0.25);
 	width: 5rem;
+}
+
+.borderbottom {
+	border-bottom: 1px solid #222222;
 }
 
 .desktop-only {
